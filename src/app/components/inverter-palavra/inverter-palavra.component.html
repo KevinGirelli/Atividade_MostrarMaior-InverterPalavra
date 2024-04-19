@@ -1,0 +1,11 @@
+<div class="inverte-container">
+  <h2>Inverter Palavra</h2>
+
+  <label class="label" for="palavra">Digite Palavra</label>
+  <input type="text" class="input-field" [(ngModel)]="palavra">
+
+  <label class="label" for="invertida">Palavra Invertida</label>
+  <input type="text" class="input-field" [(ngModel)]="invertida" disabled>
+
+  <button class="btn" (click)="inverter()">Inverter Palavra</button>
+</div>
