@@ -1,4 +1,4 @@
-## Atividade de  Mostrar Maior Número e Inverter Palavra em Angular 17
+# Atividade de  Mostrar Maior Número e Inverter Palavra em Angular 17
 
 Este é um projeto simples criado em Angular 17 para demonstrar quatro funcionalidades básicas:
 - Mostrar o maior número entre três números.
