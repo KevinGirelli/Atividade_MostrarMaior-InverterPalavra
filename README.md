@@ -1,4 +1,4 @@
-# Atividade de  Mostrar Maior Número e Inverter Palavra em Angular 17
+# Mostrar Maior Número e Inverter Palavra em Angular 17
 
 Este é um projeto simples criado em Angular 17 para demonstrar quatro funcionalidades básicas:
 - Mostrar o maior número entre três números.
@@ -25,8 +25,8 @@ Para executar este projeto localmente, é necessário ter o Node.js e o Angular 
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/KevinGirelli/Atividade_MostrarMaior-InverterPalavra.git
-   cd Atividade_MostrarMaior-InverterPalavra
+   git clone https://github.com/KevinGirelli/MostrarMaior-InverterPalavra.git
+   cd MostrarMaior-InverterPalavra
 
 2. **Instale as Dependências:**
    ```bash
